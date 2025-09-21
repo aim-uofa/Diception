@@ -1,0 +1,10 @@
+[
+  {
+    "input": "DATA/REAL_DATA/val/test_sa1b/sa_525840.jpg", 
+    "caption": "[[image2semantic]] person"
+  },
+  {
+    "input": "DATA/REAL_DATA/val/test_sa1b/sa_525840.jpg",
+    "caption": "[[image2pose]]"
+  }
+]

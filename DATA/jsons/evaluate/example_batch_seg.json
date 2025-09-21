@@ -1,0 +1,51 @@
+[
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525837.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525837.json"
+        }
+    },
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525838.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525838.json"
+        }
+    },
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525839.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525839.json"
+        }
+    },
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525840.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525840.json"
+        }
+    },
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525841.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525841.json"
+        }
+    },
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525842.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525842.json"
+        }
+    },
+    {
+        "input": "DATA/REAL_DATA/val/test_sa1b/sa_525843.jpg",
+        "caption": "[[image2segmentation]]",
+        "target": {
+        "path": "DATA/REAL_DATA/val/test_sa1b/sa_525843.json"
+        }
+    }
+]
