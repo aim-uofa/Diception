@@ -131,6 +131,7 @@ DICEPTION supports various vision perception tasks:
 - **Pose Estimation**: `[[image2pose]]`
 - **Interactive Segmentation**: `[[image2segmentation]]`
 - **Semantic Segmentation**: `[[image2semantic]] + (category in coco)`, e.g. `[[image2semantic]] person`
+- **Entity Segmentation**: `[[image2entity]]`
 
 
 ### 💡 Inference Tips
