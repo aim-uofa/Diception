@@ -153,13 +153,10 @@ For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com).
 
 ## 🖊️ Citation
 ```
-@misc{zhao2025diceptiongeneralistdiffusionmodel,
-      title={DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks}, 
-      author={Canyu Zhao and Mingyu Liu and Huanyi Zheng and Muzhi Zhu and Zhiyue Zhao and Hao Chen and Tong He and Chunhua Shen},
-      year={2025},
-      eprint={2502.17157},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.17157}, 
+@article{zhao2025diception,
+  title={Diception: A generalist diffusion model for visual perceptual tasks},
+  author={Zhao, Canyu and Liu, Mingyu and Zheng, Huanyi and Zhu, Muzhi and Zhao, Zhiyue and Chen, Hao and He, Tong and Shen, Chunhua},
+  journal={arXiv preprint arXiv:2502.17157},
+  year={2025}
 }
 ```
