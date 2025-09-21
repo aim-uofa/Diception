@@ -42,7 +42,7 @@ pip install -r requirements.txt
    https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers
 
 2. **Download Trained Weights**:
-   Please download the model from Hugging Face: `https://huggingface.co/Canyu/DICEPTION`
+   Please download the model from Hugging Face: https://huggingface.co/Canyu/DICEPTION
 
 3. **Update Paths**:
    Set `--pretrained_model_path` to your SD3 path, and set `--diception_path` to the local path of the downloaded `DICEPTION_v1.pth`.
